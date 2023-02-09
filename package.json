@@ -1,0 +1,14 @@
+{
+  "name": "react-movie",
+  "version": "1.0.0",
+  "description": "Create a single page React app that provides movie searching and same page results",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Purinat33",
+  "license": "ISC"
+}
